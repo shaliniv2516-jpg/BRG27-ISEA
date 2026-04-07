@@ -14,6 +14,4 @@ This project is an online shopping website similar to Amazon and Flipkart.
 
 ---
 
-## 📸 Linux Output
 
-![Linux](screenshots/linux.png)
