@@ -1,1 +1,3 @@
-# online-shopping-project
+## 📸 Linux Server Output
+
+![Linux Commands](screenshots/linux.png)
